@@ -1,6 +1,6 @@
 # Controller Builder
 
-This module contains decorators that can be used in an Express application. These decorators allow you to easily define and mount HTTP routes for your Express server.
+This package contains decorators that can be used in an Express application. These decorators allow you to easily define and mount HTTP routes for your Express server.
 
 ## Installation
 
